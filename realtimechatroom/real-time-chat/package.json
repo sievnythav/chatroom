@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "firebase": "^7.15.2",
-    "moment": "^2.27.0",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.31",
     "vue": "^2.5.2",
     "vue-chat-scroll": "^1.4.0",
